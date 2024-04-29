@@ -15,6 +15,7 @@ Lastly, a correlation analysis is performed between bill length and flipper leng
 This project can be used to obtain an overview of the variables in the Palmer Penguins dataset. 
 
 ## Get Started
+Cell 4 contains an overview of all variables in the dataset. This is a good place to start to get a sense of the data contains in the dataset. Variable types are then outlined below this which is a starting point for the analaysis to come later in the notebook. 
 
 ## Get Help
 Please contact the author at g00439452@atu.ie
